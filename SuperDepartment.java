@@ -1,11 +1,6 @@
 package dept.rasmita.model;
 
 public class SuperDepartment {
-//	
-//	String departmentName ;
-//	String getTodaysWork  ;
-//	String getWorkDeadline;
-//	String isTodayAHoliday;
 
 	public String departmentName() {
 		String departmentName = "Super Department" ;
